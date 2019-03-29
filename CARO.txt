@@ -1,0 +1,11 @@
+CCCCCCCCCCCC          AA          RRRRRRRRRRR    OOOOOOOOOO
+CCCCCCCCCCCC         AAAA         RRRRRRRRRRRR  OOOOOOOOOOOO
+CC                  AA  AA        RR        RR  OO        OO
+CC                 AA    AA       RR        RR  OO        OO
+CC                AA      AA      RRRRRRRRRRRR  OO        OO
+CC               AAAAAAAAAAAA     RRRRRRRRRRR   OO        OO
+CC              AAAAAAAAAAAAAA    RR     RR     OO        OO
+CC             AA            AA   RR      RR    OO        OO
+CCCCCCCCCCCC  AA              AA  RR       RR   OOOOOOOOOOOO
+CCCCCCCCCCCC AA                AA RR        RR   OOOOOOOOOO
+                                                     -TEAM 22-
